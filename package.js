@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'comerc:autoform-selectize',
-  summary: 'Custom "selectize" input type for AutoForm',
+  name: 'smartunit:autoform-selectize',
+  summary: 'Custom "selectize" input type for AutoForm (for AutoForm 6.0)',
   version: '2.3.2',
-  git: 'https://github.com/comerc/meteor-autoform-selectize.git'
+  git: 'https://github.com/alopex-smartunit/meteor-autoform-selectize.git'
 });
 
 Package.onUse(function(api) {
