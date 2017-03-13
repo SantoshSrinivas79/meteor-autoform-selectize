@@ -179,9 +179,9 @@ Template.afSelectize.rendered = function () {
   }
 };
 
-Template.afSelectize.destroyed = function () {
-  this.$('select')[0].selectize.destroy();
-};
+// Template.afSelectize.destroyed = function () {
+//   this.$('select')[0].selectize.destroy();
+// };
 
 var _defaults = {
   firstOption: 'Select an option',
